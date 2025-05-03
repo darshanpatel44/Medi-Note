@@ -1,4 +1,5 @@
-# MediNote: AI-Powered Medical Transcription & Analysis
+## Inspiration
+ MediNote: AI-Powered Medical Transcription & Analysis
 
 ## Inspiration
 
@@ -14,7 +15,7 @@ We built MediNote using React with TypeScript for the frontend, styled with Tail
 
 ## Challenges we ran into
 
-Building a HIPAA-compliant platform presented significant challenges. We needed to ensure end-to-end encryption for all patient data while maintaining real-time capabilities. Optimizing the accuracy of medical transcription required extensive domain-specific training, and creating a truly helpful AI assistant meant balancing accessibility with medical accuracy. We also had to navigate complex healthcare regulations regarding data sharing between doctors and patients. Technical challenges included integrating various APIs and ensuring reliable audio processing across different devices and connection speeds.
+Building our secure platform presented significant challenges. We needed to ensure end-to-end encryption for all patient data while maintaining real-time capabilities. Optimizing the accuracy of medical transcription required extensive domain-specific training, and creating a truly helpful AI assistant meant balancing accessibility with clinical precision. We also navigated complex healthcare regulations around data sharing between doctors and patients. On the technical side, we integrated multiple APIs and ensured reliable audio processing across diverse devices and connection speeds.
 
 ## Accomplishments that we're proud of
 
