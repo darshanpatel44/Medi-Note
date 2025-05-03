@@ -1,0 +1,6 @@
+{
+  "functions": "./convex",
+  "storage": {
+    "enabled": true
+  }
+}
