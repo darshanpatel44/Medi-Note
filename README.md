@@ -50,7 +50,7 @@ MediNote lightens clinicians' administrative load and ensures precise documentat
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/darshanpatel44/Medi-Note.git
 cd MediNote
 ```
 
